@@ -1,0 +1,29 @@
+{
+  "name": "webdriverio-exploration",
+  "version": "1.0.0",
+  "description": "Exploring UI Testing Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/asantos3026/webdriverio-exploration.git"
+  },
+  "keywords": [
+    "UI",
+    "Testing",
+    "WebdriverIO"
+  ],
+  "author": "Ai Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asantos3026/webdriverio-exploration/issues"
+  },
+  "homepage": "https://github.com/asantos3026/webdriverio-exploration#readme",
+  "devDependencies": {
+    "wdio-dot-reporter": "0.0.9",
+    "wdio-mocha-framework": "^0.5.13",
+    "webdriverio": "^4.12.0"
+  }
+}
